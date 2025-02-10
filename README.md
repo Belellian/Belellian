@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://github.com/Belleian">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bivizul&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bivizul&layout=compact&langs_count=8&theme=nord"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Belellian&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Belellian&layout=compact&langs_count=8&theme=nord"/>
 </a>
 </p>
 
