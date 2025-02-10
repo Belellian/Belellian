@@ -29,6 +29,11 @@ Here are some ideas to get you started:
 ![REST](https://img.shields.io/badge/-REST-2E3440?style=flat&logo=REST)&nbsp;
 ![JSON](https://img.shields.io/badge/-JSON-2E3440?style=flat&logo=JSON)&nbsp;
 ![XML](https://img.shields.io/badge/-XML-2E3440?style=flat&logo=XML)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-2E3440?style=flat&logo=Postman)&nbsp;
+![Devtools](https://img.shields.io/badge/-Devtools-2E3440?style=flat&logo=Google%20Chrome)&nbsp;
+![Charles](https://img.shields.io/badge/-Charles-2E3440?style=flat&logo=Charles)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-2E3440?style=flat&logo=SQL)&nbsp;
+![Agile](https://img.shields.io/badge/-Agile-2E3440?style=flat&logo=Agile)&nbsp;
 
 ## ⚙️ &nbsp;GitHub Analytics
 
